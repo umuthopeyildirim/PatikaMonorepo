@@ -3,6 +3,8 @@ This repository contains all the projects of the Patika.dev courses. The project
 
 ## Courses
 - [HTML Course](HTML_Courses)
+    - [Exam 1](HTML_Courses/Exam1)
+    - [Exam 2](HTML_Courses/Exam2)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
